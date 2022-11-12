@@ -20,7 +20,7 @@ Obtain your free [AssemblyAI API key](https://app.assemblyai.com/)
 
 ###  Download GitHub repo
 
-
+https://github.com/Nithin4nt/Transcriber.git
 
 
 ###  Pip install libraries
